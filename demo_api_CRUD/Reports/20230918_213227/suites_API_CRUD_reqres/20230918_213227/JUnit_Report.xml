@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="suites_API_CRUD_reqres" time="5.975" tests="5" failures="0" errors="0">
+   <testsuite name="suites_API_CRUD_reqres" tests="5" failures="0" errors="0" time="5.975" skipped="0" timestamp="2023-09-18 21:32:32" hostname="User01 - DESKTOP-BSUKM24" id="Test Suites/suites_API_CRUD_reqres">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="D:\\Documents\\apps\\test\\katalon\\demo_api\\Reports\\20230918_213227\\suites_API_CRUD_reqres\\20230918_213227"/>
+         <property name="logFiles" value="D:\\Documents\\apps\\test\\katalon\\demo_api\\Reports\\20230918_213227\\suites_API_CRUD_reqres\\20230918_213227\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="User01 - DESKTOP-BSUKM24"/>
+         <property name="hostAddress" value="192.168.1.100"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="8.6.8.208"/>
+      </properties>
+      <testcase name="Test Cases/API_reqres/Delete_user" time="2.312" classname="Test Cases/API_reqres/Delete_user" status="PASSED">
+         <system-out><![CDATA[2023-09-18 21:32:33 - [TEST_CASE][PASSED] - Test Cases/API_reqres/Delete_user: Test Cases/API_reqres/Delete_user
+
+2023-09-18 21:32:33 - [TEST_STEP][PASSED] - sendRequest(findTestObject("API_reqres/Delete_user")): Send request successfully
+
+2023-09-18 21:32:35 - [MESSAGE][INFO] - HAR: D:\Documents\apps\test\katalon\demo_api\Reports\20230918_213227\suites_API_CRUD_reqres\20230918_213227\requests\main\0.har
+
+2023-09-18 21:32:35 - [MESSAGE][PASSED] - Send request successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/API_reqres/Get_list users" time="0.746" classname="Test Cases/API_reqres/Get_list users" status="PASSED">
+         <system-out><![CDATA[2023-09-18 21:32:35 - [TEST_CASE][PASSED] - Test Cases/API_reqres/Get_list users: Test Cases/API_reqres/Get_list users
+
+2023-09-18 21:32:35 - [TEST_STEP][PASSED] - sendRequest(findTestObject("API_reqres/Get_list users")): Send request successfully
+
+2023-09-18 21:32:36 - [MESSAGE][INFO] - HAR: D:\Documents\apps\test\katalon\demo_api\Reports\20230918_213227\suites_API_CRUD_reqres\20230918_213227\requests\main\1.har
+
+2023-09-18 21:32:36 - [MESSAGE][PASSED] - Send request successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/API_reqres/Get_single user" time="0.794" classname="Test Cases/API_reqres/Get_single user" status="PASSED">
+         <system-out><![CDATA[2023-09-18 21:32:36 - [TEST_CASE][PASSED] - Test Cases/API_reqres/Get_single user: Test Cases/API_reqres/Get_single user
+
+2023-09-18 21:32:36 - [TEST_STEP][PASSED] - sendRequest(findTestObject("API_reqres/Get_single user")): Send request successfully
+
+2023-09-18 21:32:36 - [MESSAGE][INFO] - HAR: D:\Documents\apps\test\katalon\demo_api\Reports\20230918_213227\suites_API_CRUD_reqres\20230918_213227\requests\main\2.har
+
+2023-09-18 21:32:36 - [MESSAGE][PASSED] - Send request successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/API_reqres/Post_user" time="1.133" classname="Test Cases/API_reqres/Post_user" status="PASSED">
+         <system-out><![CDATA[2023-09-18 21:32:36 - [TEST_CASE][PASSED] - Test Cases/API_reqres/Post_user: Test Cases/API_reqres/Post_user
+
+2023-09-18 21:32:37 - [TEST_STEP][PASSED] - sendRequest(findTestObject("API_reqres/Post_user")): Send request successfully
+
+2023-09-18 21:32:38 - [MESSAGE][INFO] - HAR: D:\Documents\apps\test\katalon\demo_api\Reports\20230918_213227\suites_API_CRUD_reqres\20230918_213227\requests\main\3.har
+
+2023-09-18 21:32:38 - [MESSAGE][PASSED] - Send request successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/API_reqres/Update_user" time="0.759" classname="Test Cases/API_reqres/Update_user" status="PASSED">
+         <system-out><![CDATA[2023-09-18 21:32:38 - [TEST_CASE][PASSED] - Test Cases/API_reqres/Update_user: Test Cases/API_reqres/Update_user
+
+2023-09-18 21:32:38 - [TEST_STEP][PASSED] - sendRequest(findTestObject("API_reqres/Update_user")): Send request successfully
+
+2023-09-18 21:32:38 - [MESSAGE][INFO] - HAR: D:\Documents\apps\test\katalon\demo_api\Reports\20230918_213227\suites_API_CRUD_reqres\20230918_213227\requests\main\4.har
+
+2023-09-18 21:32:38 - [MESSAGE][PASSED] - Send request successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2023-09-18 21:32:32 - [TEST_SUITE][PASSED] - suites_API_CRUD_reqres: Test Cases/API_reqres/Update_user]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

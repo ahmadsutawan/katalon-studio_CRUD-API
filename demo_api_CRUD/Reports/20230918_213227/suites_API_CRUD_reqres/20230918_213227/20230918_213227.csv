@@ -1,0 +1,17 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+suites_API_CRUD_reqres,,,,2023-09-18 21:32:32,2023-09-18 21:32:38,5.975s,PASSED
+,,,,,,,
+Test Cases/API_reqres/Delete_user,,,,2023-09-18 21:32:33,2023-09-18 21:32:35,2.312s,PASSED
+"sendRequest(findTestObject(""API_reqres/Delete_user""))",,,,2023-09-18 21:32:33,2023-09-18 21:32:35,2.084s,PASSED
+,,,,,,,
+Test Cases/API_reqres/Get_list users,,,,2023-09-18 21:32:35,2023-09-18 21:32:36,0.746s,PASSED
+"sendRequest(findTestObject(""API_reqres/Get_list users""))",,,,2023-09-18 21:32:35,2023-09-18 21:32:36,0.600s,PASSED
+,,,,,,,
+Test Cases/API_reqres/Get_single user,,,,2023-09-18 21:32:36,2023-09-18 21:32:36,0.794s,PASSED
+"sendRequest(findTestObject(""API_reqres/Get_single user""))",,,,2023-09-18 21:32:36,2023-09-18 21:32:36,0.667s,PASSED
+,,,,,,,
+Test Cases/API_reqres/Post_user,,,,2023-09-18 21:32:36,2023-09-18 21:32:38,1.133s,PASSED
+"sendRequest(findTestObject(""API_reqres/Post_user""))",,,,2023-09-18 21:32:37,2023-09-18 21:32:38,1.007s,PASSED
+,,,,,,,
+Test Cases/API_reqres/Update_user,,,,2023-09-18 21:32:38,2023-09-18 21:32:38,0.759s,PASSED
+"sendRequest(findTestObject(""API_reqres/Update_user""))",,,,2023-09-18 21:32:38,2023-09-18 21:32:38,0.633s,PASSED
